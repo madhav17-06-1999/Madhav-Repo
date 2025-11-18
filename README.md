@@ -1,5 +1,8 @@
 # Madhav-Repo
 Repository Desc
 <br>
-Select * from emp
-where id = 2
+Select * from employee_users
+where id = :id
+<br>
+
+select name from demo
